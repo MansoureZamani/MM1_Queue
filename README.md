@@ -5,4 +5,4 @@ purpose of this project is simulating the Delay and Number of packets in system 
 
 sample graph:
 
-file:///home/zamani/Pictures/Screenshot_20201222_222057.png
+![](SampleGraphImages/Delay.png)
